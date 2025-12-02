@@ -72,5 +72,4 @@ A 3D rendered model of the complete setup is included to help visualize the buil
 * Add random return angles
 * Add automatic play mode with timing prediction
 
-
 If you'd like a **Markdown README.md** version instead (with formatting, bold titles, images, bullet styles), tell me and I'll generate it.
